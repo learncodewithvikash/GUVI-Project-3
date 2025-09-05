@@ -25,12 +25,11 @@ It includes authentication, product management, cart system, and an admin dashbo
 ---
 
 ## 📂 Project Structure
-
- ecommerce-mysql-final/
-│── backend/ # Express backend + MySQL
-│── frontend/ # React frontend
-│── docker-compose.yml (optional)
-│── README.md
+ecommerce-mysql-final/:
+─ backend/ # Express backend + MySQL
+─ frontend/ # React frontend
+─ docker-compose.yml (optional)
+─ README.md
 
 
 Create a .env file inside backend/:
